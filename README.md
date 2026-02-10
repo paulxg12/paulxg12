@@ -2,7 +2,6 @@
 
 ### Full-Stack Developer | Content Creator | Tech Enthusiast
 
-![](https://komarev.com/ghpvc/?username=Prince Raymond Paulxg12&color=blueviolet)
 
 ---
 
@@ -43,9 +42,8 @@ I'm a passionate full-stack developer and content creator based in **Bengaluru, 
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Prince Raymond paulxg12)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Prince Raymond paulxg12)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://Prince Raymond paulxg12.dev)
+[![LinkedIn](https://www.linkedin.com/in/prince-raymond-paul/
+
 
 ---
 
