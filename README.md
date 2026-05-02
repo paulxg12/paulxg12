@@ -1,56 +1,58 @@
-# Hi there 👋 I'm Prince Raymond Paul
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-Bengaluru%2C%20India-blue?style=flat-square" alt="location" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square" alt="oss" />
+  <img src="https://komarev.com/ghpvc/?username=paulxg12&style=flat-square" alt="views" />
+</p>
 
-### Full-Stack Developer | Content Creator | Tech Enthusiast
+## Prince Raymond Paul
 
+I build production-grade systems and ship code that matters. Currently focused on AI/ML tooling, open source contributions, and scalable web applications.
 
----
-
-## 🚀 About Me
-
-I'm a passionate full-stack developer and content creator based in **Bengaluru, India**. I specialize in building scalable digital solutions and sharing knowledge through content creation. My expertise spans across web development, C programming, and embedded systems.
-
-- 💻 **Currently Working On:** Full-stack web applications and embedded systems projects
-- 🎓 **Learning:** Advanced C programming concepts and embedded systems design
-- 🤝 **Open to Collaborate:** On innovative projects and open-source contributions
-- 📧 **Reach Out:** For freelance opportunities and technical collaborations
+- 🐙 Contributing to **Microsoft AutoGen**, **LangChain**, and other open source projects
+- 🔧 Full-stack developer with deep systems programming experience in C and embedded systems
+- 📍 Based in Bengaluru, India
 
 ---
 
-## 🛠️ Tech Stack
+### Currently Working On
 
-### Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Project | Description |
+|---------|-------------|
+| [AutoGen PR #7649](https://github.com/microsoft/autogen/pull/7649) | Added `get_thread()` API to retrieve group chat message history |
+| Content Agency | Building scalable digital solutions for clients |
+| Open Source | Daily contributions to Python AI/ML ecosystem |
 
 ---
 
-## 📊 GitHub Stats
+### Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince Raymond Paulxg12&theme=radical&show_icons=true&count_private=true)
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://www.linkedin.com/in/prince-raymond-paul/
-
-
----
-
-## 💡 Fun Fact
-
-⚡ I'm passionate about combining creative problem-solving with technical expertise to build solutions that make a real impact!
+```
+Languages:  Python  C  TypeScript  JavaScript  Rust
+Backend:    FastAPI  Node.js  Express  PostgreSQL
+AI/ML:      AutoGen  LangChain  PyTorch  Hugging Face
+Tools:      Git  Docker  uv  GitHub Actions  VS Code
+Systems:    Embedded C  ARM  ESP32  RTOS
+```
 
 ---
 
-*Thanks for visiting my profile! Feel free to reach out for collaborations and opportunities.* 🙌
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulxg12&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulxg12&theme=github_dark" alt="streak" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulxg12&layout=compact&theme=github_dark&langs_count=6" alt="top langs" height="195" />
+</p>
+
+---
+
+### Open to
+
+- Open source collaborations in AI/ML and developer tooling
+- Freelance and contract work on full-stack projects
+- Technical consulting and advisory roles
+
+**Get in touch:** [LinkedIn](https://www.linkedin.com/in/prince-raymond-paul/) · [Twitter](https://twitter.com/paulxavier)
