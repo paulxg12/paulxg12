@@ -1,46 +1,63 @@
-### Hey, I'm Prince 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;RAG+%26+Agent+Systems;Full-Stack+Builder;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-AI Engineer building production systems. Self-taught, open-source driven.
-
-**What I ship:**
-- [Replybase](https://github.com/paulxg12/replybase-) — AI Shopify chatbot with RAG pipeline (Turborepo, pgvector, BullMQ, LangChain)
-- [Primetrade.ai Assignment](https://github.com/paulxg12/primetrade-assignment) — Quant analysis of 211K Hyperliquid trades vs Fear & Greed Index
-- [radio-globe](https://github.com/paulxg12/radio-globe) — Interactive 3D globe with 500+ live radio stations (Three.js, Globe.gl)
-
-**Open Source:** 27 PRs across 17+ repos — langchain, autogen, pydantic, open-webui, weaviate, browser-use, mem0, metaflow, OpenBB, DocsGPT, netflix/metaflow
-
-**Stack:** Python · TypeScript · LangChain · AutoGen · PyTorch · Next.js · PostgreSQL · Docker
+```yaml
+name: Prince Raymond Paul
+location: Bengaluru, India
+focus: Production AI Systems — RAG pipelines, agent architectures, full-stack apps
+blog:   https://www.linkedin.com/in/prince-raymond-paul/
+contact: princeraymondpaul911@gmail.com
+```
 
 ---
 
-### 📚 Free Programming Books — Curated Roadmap
+### 🚀 Ships
 
-Curated from [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books).
+| Project | Stack | What It Does |
+|---------|-------|-------------|
+| [**replybase**](https://github.com/paulxg12/replybase-) | TypeScript, Turborepo, pgvector, BullMQ, LangChain | AI Shopify chatbot — RAG pipeline ingests 12mo of Gorgias tickets, auto-updates KB, handles WISMO via Shopify API |
+| [**gilded-salon-app**](https://github.com/paulxg12/gilded-salon-app) | TypeScript, Firebase, Firestore, WhatsApp API | Full booking engine + admin portal + WhatsApp invoice automation |
+| [**chelsea-man-spa**](https://github.com/paulxg12/chelsea-man-spa-mobile) | JS, Firebase Auth, Firestore, Firebase Hosting | Mobile booking app for Dubai Marina spa — dark gold theme, real-time scheduling |
+| [**primtrade-assignment**](https://github.com/paulxg12/primetrade-assignment) | Python, Pandas, NumPy, Jupyter | Quant analysis — 211K Hyperliquid trades vs BTC Fear & Greed Index |
+| [**grace-school-redesign**](https://github.com/paulxg12/grace-school-redesign) | HTML, CSS, JS | Full school website redesign |
 
-#### 🟦 AI/ML Engineer Path
+---
 
-| Topic | Book |
-|-------|------|
-| **Python** | [Automate the Boring Stuff](https://automatetheboringstuff.com/3e/) · [Python for Everybody](http://py4e.com/book) · [Python DS Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) |
-| **ML/DL** | [Deep Learning](https://www.deeplearningbook.org) (Goodfellow) · [ISLR](https://www.statlearning.com) · [Dive into DL](https://d2l.ai) · [PRML](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) (Bishop) |
-| **AI** | [AI: Foundations of Computational Agents](https://artint.info) · [Paradigms of AI Programming](https://github.com/norvig/paip-lisp) (Norvig) |
-| **Math** | [Mathematics for ML](https://mml-book.github.io) · [Discrete Math](https://discrete.openmathbooks.org/dmoi3.html) · [Linear Algebra Done Right](https://linear.axler.net) |
-| **Algorithms** | [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) (Kleinberg) · [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) (Erickson) |
-| **OS** | [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) — "Three Easy Pieces" |
-| **Networks** | [Computer Networks: A Systems Approach](https://book.systemsapproach.org) |
-| **Compilers** | [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html) |
-| **NLP** | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) (Jurafsky) · [NLP with Python](http://www.nltk.org/book/) |
-| **DBMS** | [Readings in Database Systems](http://www.redbook.io) · [Database Design](https://opentextbc.ca/dbdesign01/) |
+### 🔧 Stack
 
-#### 🟢 Software Engineering / Agency
+```
+AI/ML     → Python · LangChain · LangGraph · AutoGen · PyTorch · Weaviate · pgvector
+Agentic   → ADK · Browser-Use · Speech-to-Speech · RAGFlow
+Backend   → Node.js · BullMQ · Turborepo · PostgreSQL · Docker
+Cloud     → Firebase (Auth · Firestore · Hosting) · Vercel · Railway
+Frontend  → TypeScript · React · Next.js · HTML/CSS/JS
+Systems   → Rust · C · Linux · Git · CI/CD
+```
 
-| Topic | Book |
-|-------|------|
-| **JS** | [Eloquent JavaScript](https://eloquentjavascript.net) · [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) |
-| **HTML/CSS** | [Interneting is Hard](https://www.internetingishard.com) · [Atomic Design](https://atomicdesign.bradfrost.com) |
-| **Git** | [Pro Git](https://git-scm.com/book/en/v2) |
-| **Architecture** | [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) · [SRE Book](https://landing.google.com/sre/book/index.html) |
-| **DevOps** | [CI/CD with Docker & Kubernetes](https://github.com/semaphoreci/book-cicd-docker-kubernetes) |
-| **Hindi Books** | [Data Structure with C](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) · [C++ in Hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) · [Python Tutorial Hindi](https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf) |
+---
 
-[LinkedIn](https://www.linkedin.com/in/prince-raymond-paul/) · [Email](mailto:princeraymondpaul911@gmail.com)
+### 📊 Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulxg12&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulxg12&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+</p>
+
+---
+
+### 🌐 Open Source
+
+27+ PRs across **langchain**, **autogen**, **pydantic**, **open-webui**, **weaviate**, **browser-use**, **mem0**, **metaflow** (Netflix), **OpenBB**, **DocsGPT**, and more.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paulxg12&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/prince-raymond-paul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:princeraymondpaul911@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=paulxg12&style=for-the-badge&color=58a6ff" />
+</div>
