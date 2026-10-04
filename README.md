@@ -1,63 +1,72 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;RAG+%26+Agent+Systems;Full-Stack+Builder;Open+Source+Contributor" alt="Typing SVG" />
+
+# Prince Raymond Paul
+
+### Applied AI · Machine Learning · Open Source
+
+Building AI applications, exploring data, and contributing fixes to the tools behind them.
+
+[Projects](#selected-projects) · [Open-source work](#open-source-work) · [LinkedIn](https://www.linkedin.com/in/prince-raymond-paul/) · [Email](mailto:princeraymondpaul911@gmail.com)
+
 </div>
 
-```yaml
-name: Prince Raymond Paul
-location: Bengaluru, India
-focus: Production AI Systems — RAG pipelines, agent architectures, full-stack apps
-blog:   https://www.linkedin.com/in/prince-raymond-paul/
-contact: princeraymondpaul911@gmail.com
-```
-
 ---
 
-### 🚀 Ships
+I’m a developer based in **Bengaluru, India**, focused on retrieval-augmented generation, agent systems, and Python data workflows. My projects span AI-powered customer support, quantitative research, and the backend systems that connect data to useful applications.
 
-| Project | Stack | What It Does |
-|---------|-------|-------------|
-| [**replybase**](https://github.com/paulxg12/replybase-) | TypeScript, Turborepo, pgvector, BullMQ, LangChain | AI Shopify chatbot — RAG pipeline ingests 12mo of Gorgias tickets, auto-updates KB, handles WISMO via Shopify API |
-| [**gilded-salon-app**](https://github.com/paulxg12/gilded-salon-app) | TypeScript, Firebase, Firestore, WhatsApp API | Full booking engine + admin portal + WhatsApp invoice automation |
-| [**chelsea-man-spa**](https://github.com/paulxg12/chelsea-man-spa-mobile) | JS, Firebase Auth, Firestore, Firebase Hosting | Mobile booking app for Dubai Marina spa — dark gold theme, real-time scheduling |
-| [**primtrade-assignment**](https://github.com/paulxg12/primetrade-assignment) | Python, Pandas, NumPy, Jupyter | Quant analysis — 211K Hyperliquid trades vs BTC Fear & Greed Index |
-| [**grace-school-redesign**](https://github.com/paulxg12/grace-school-redesign) | HTML, CSS, JS | Full school website redesign |
+## Selected projects
 
----
+### [Replybase — retrieval-powered customer support](https://github.com/paulxg12/replybase-)
 
-### 🔧 Stack
+An AI support chatbot for Shopify merchants, with a pipeline for turning support history into a searchable knowledge base.
 
-```
-AI/ML     → Python · LangChain · LangGraph · AutoGen · PyTorch · Weaviate · pgvector
-Agentic   → ADK · Browser-Use · Speech-to-Speech · RAGFlow
-Backend   → Node.js · BullMQ · Turborepo · PostgreSQL · Docker
-Cloud     → Firebase (Auth · Firestore · Hosting) · Vercel · Railway
-Frontend  → TypeScript · React · Next.js · HTML/CSS/JS
-Systems   → Rust · C · Linux · Git · CI/CD
-```
+- Gorgias ticket ingestion, embeddings, and retrieval with PostgreSQL + pgvector.
+- Background knowledge-base updates with BullMQ and Redis.
+- Shopify order lookup and escalation to human support.
 
----
+**Built with:** TypeScript, Next.js, OpenAI embeddings, PostgreSQL, pgvector, BullMQ, Docker.
 
-### 📊 Pulse
+### [Regime-aware rotation — reproducible quantitative research](https://github.com/paulxg12/regime-aware-rotation)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulxg12&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulxg12&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
-</p>
+A Python research pipeline for industry rotation, macro-regime signals, and factor-risk diagnostics.
 
----
+- Data ingestion, feature construction, and configurable backtests.
+- Expanding-window walk-forward evaluation and transaction-cost sensitivity.
+- Rolling factor analysis, reporting, and a command-line workflow.
 
-### 🌐 Open Source
+**Built with:** Python, pandas, NumPy, Pydantic, pytest.
 
-27+ PRs across **langchain**, **autogen**, **pydantic**, **open-webui**, **weaviate**, **browser-use**, **mem0**, **metaflow** (Netflix), **OpenBB**, **DocsGPT**, and more.
+### [Trader performance & market sentiment](https://github.com/paulxg12/primetrade-assignment)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paulxg12&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+A data-science analysis of Hyperliquid trader performance alongside the Bitcoin Fear & Greed Index.
 
----
+**Focus:** Exploratory analysis, market sentiment, and trader behavior.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/prince-raymond-paul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:princeraymondpaul911@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=paulxg12&style=for-the-badge&color=58a6ff" />
-</div>
+## Open-source work
+
+I submit fixes and feature proposals to AI and developer tooling. Selected pull requests below link directly to the implementation and review discussion.
+
+| Project | Proposed contribution | Pull request |
+| :--- | :--- | :--- |
+| **Microsoft AutoGen** | Add `get_thread()` to retrieve group-chat message history | [#7649](https://github.com/microsoft/autogen/pull/7649) |
+| **Langflow** | Add fallback serialization for non-picklable Redis cache values | [#13187](https://github.com/langflow-ai/langflow/pull/13187) |
+| **Weaviate Python client** | Address flaky tenant-input validation on Python 3.12 | [#2043](https://github.com/weaviate/weaviate-python-client/pull/2043) |
+
+*These are submitted proposals; each PR shows its current review and merge status.*
+
+[Explore my public pull requests →](https://github.com/pulls?q=is%3Apr+author%3Apaulxg12+-user%3Apaulxg12)
+
+## Technical focus
+
+| Area | Tools & interests |
+| :--- | :--- |
+| **Applied AI** | RAG, embeddings, vector search, agent workflows |
+| **Data & research** | Python, pandas, NumPy, Jupyter, walk-forward evaluation |
+| **Backend engineering** | TypeScript, PostgreSQL, pgvector, Redis, BullMQ |
+| **Applications & tooling** | Next.js, React, Docker, Git, pytest |
+
+## Let’s connect
+
+Interested in collaborating on **AI tooling, retrieval systems, and reproducible data projects**.
+
+[LinkedIn](https://www.linkedin.com/in/prince-raymond-paul/) · [Email](mailto:princeraymondpaul911@gmail.com)
