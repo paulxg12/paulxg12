@@ -2,71 +2,81 @@
 
 # Prince Raymond Paul
 
-### Applied AI · Machine Learning · Open Source
+### Machine Learning · Data Science · Python
 
-Building AI applications, exploring data, and contributing fixes to the tools behind them.
+I build reproducible ML experiments, time-series forecasts, predictive models, and local data-analysis tools.
 
-[Projects](#selected-projects) · [Open-source work](#open-source-work) · [LinkedIn](https://www.linkedin.com/in/prince-raymond-paul/) · [Email](mailto:princeraymondpaul911@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/prince-raymond-paul/) · [Email](mailto:princeraymondpaul911@gmail.com)
 
 </div>
 
 ---
 
-I’m a developer based in **Bengaluru, India**, focused on retrieval-augmented generation, agent systems, and Python data workflows. My projects span AI-powered customer support, quantitative research, and the backend systems that connect data to useful applications.
+## Selected ML projects
 
-## Selected projects
+### [MindForecast](https://github.com/paulxg12/mindforecast)
 
-### [Replybase — retrieval-powered customer support](https://github.com/paulxg12/replybase-)
+Forecasting and astronomical classification experiments built with Python.
 
-An AI support chatbot for Shopify merchants, with a pipeline for turning support history into a searchable knowledge base.
+- Recursive mental-health prevalence forecasts for 205 countries through 2030.
+- Ridge, persistence baseline, and histogram gradient boosting backtests.
+- Ridge achieved **MAE 0.0044** and improved **14.1%** over persistence.
+- Includes SkyClass, an astronomical object classification study.
 
-- Gorgias ticket ingestion, embeddings, and retrieval with PostgreSQL + pgvector.
-- Background knowledge-base updates with BullMQ and Redis.
-- Shopify order lookup and escalation to human support.
+**Python · pandas · NumPy · scikit-learn · SciPy · matplotlib**
 
-**Built with:** TypeScript, Next.js, OpenAI embeddings, PostgreSQL, pgvector, BullMQ, Docker.
+### [AeroSentinel](https://github.com/paulxg12)
 
-### [Regime-aware rotation — reproducible quantitative research](https://github.com/paulxg12/regime-aware-rotation)
+A local ML lab for predicting jet-engine remaining useful life from NASA C-MAPSS sensor histories.
 
-A Python research pipeline for industry rotation, macro-regime signals, and factor-risk diagnostics.
+- Past-only rolling features and engine-safe train/calibration/test splitting.
+- Median baseline compared with histogram gradient boosting.
+- Symmetric split-conformal 90% intervals.
+- **Test MAE: 20.22 cycles · baseline MAE: 39.08 cycles**
+- Streamlit mission-control dashboard and pytest coverage.
 
-- Data ingestion, feature construction, and configurable backtests.
-- Expanding-window walk-forward evaluation and transaction-cost sensitivity.
-- Rolling factor analysis, reporting, and a command-line workflow.
+**Python · pandas · scikit-learn · Streamlit · joblib · pytest**
 
-**Built with:** Python, pandas, NumPy, Pydantic, pytest.
+### [Oribi](https://github.com/paulxg12/Oribi)
 
-### [Trader performance & market sentiment](https://github.com/paulxg12/primetrade-assignment)
+A Python library that profiles pandas DataFrames and produces evidence-based analytical context locally.
 
-A data-science analysis of Hyperliquid trader performance alongside the Bitcoin Fear & Greed Index.
+- Dataset, column, key, grain, relationship, and warning analysis.
+- Privacy-conscious exports that omit raw values by default.
+- Python 3.10-3.14 and pandas compatibility work.
 
-**Focus:** Exploratory analysis, market sentiment, and trader behavior.
+**Python · pandas · NumPy · pytest · Ruff · mypy**
 
-## Open-source work
+### [Regime-aware rotation](https://github.com/paulxg12/regime-aware-rotation)
 
-I submit fixes and feature proposals to AI and developer tooling. Selected pull requests below link directly to the implementation and review discussion.
+Monthly long-short US industry rotation with macro-regime signals and factor-risk controls.
 
-| Project | Proposed contribution | Pull request |
-| :--- | :--- | :--- |
-| **Microsoft AutoGen** | Add `get_thread()` to retrieve group-chat message history | [#7649](https://github.com/microsoft/autogen/pull/7649) |
-| **Langflow** | Add fallback serialization for non-picklable Redis cache values | [#13187](https://github.com/langflow-ai/langflow/pull/13187) |
-| **Weaviate Python client** | Address flaky tenant-input validation on Python 3.12 | [#2043](https://github.com/weaviate/weaviate-python-client/pull/2043) |
+**Python · pandas · quantitative research · walk-forward validation**
 
-*These are submitted proposals; each PR shows its current review and merge status.*
+### [Trader performance and market sentiment](https://github.com/paulxg12/primetrade-assignment)
 
-[Explore my public pull requests →](https://github.com/pulls?q=is%3Apr+author%3Apaulxg12+-user%3Apaulxg12)
+Exploratory data analysis of Bitcoin Fear & Greed against Hyperliquid trader performance.
+
+**Python · data analysis · EDA · visualisation**
+
+## Open-source contribution
+
+I contribute to Python data and developer tooling. My verified merged contribution is to [Oribi](https://github.com/samhoon000/Oribi):
+
+| Contribution | Status |
+| :--- | :--- |
+| [Prevent float16 numeric-statistics overflow](https://github.com/samhoon000/Oribi/pull/163) | **Merged** |
 
 ## Technical focus
 
-| Area | Tools & interests |
+| Area | Tools |
 | :--- | :--- |
-| **Applied AI** | RAG, embeddings, vector search, agent workflows |
-| **Data & research** | Python, pandas, NumPy, Jupyter, walk-forward evaluation |
-| **Backend engineering** | TypeScript, PostgreSQL, pgvector, Redis, BullMQ |
-| **Applications & tooling** | Next.js, React, Docker, Git, pytest |
+| **Machine learning** | scikit-learn, Ridge, gradient boosting, baselines, backtesting |
+| **Data science** | pandas, NumPy, SciPy, matplotlib, exploratory analysis |
+| **Time series** | lag features, rolling statistics, recursive forecasts, grouped splits |
+| **Model evaluation** | MAE, RMSE, MAPE, leakage checks, conformal intervals |
+| **Software practice** | pytest, Ruff, mypy, virtual environments, Git, Streamlit |
 
-## Let’s connect
-
-Interested in collaborating on **AI tooling, retrieval systems, and reproducible data projects**.
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/prince-raymond-paul/) · [Email](mailto:princeraymondpaul911@gmail.com)
